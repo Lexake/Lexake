@@ -19,12 +19,14 @@ Pour moi, GitHub et les sites personnels ont bien plus de valeur que LinkedIn po
 Si tu veux en savoir plus sur mes projets, discuter de collaborations ou simplement échanger des idées, n'hésite pas à me contacter ici sur GitHub ou par mail . Mon voyage dans le monde du développement est en constante évolution, et je suis ravi de partager cette aventure avec d'autres passionnés comme toi.
 
 <hr>
-<img align="center" alt="Kotlin" height="55" width="55"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-<img align="center" alt="JavaScript" height="55" width="55"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="55" width="55"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<div class="flex">
+  <img align="center" alt="Kotlin" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="JavaScript" height="55" width="55"               
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="55" width="55"             
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
 <hr>
 
 <details closed display="flex" align-items="center" color="#FFDEAD">
