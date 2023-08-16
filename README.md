@@ -26,6 +26,8 @@ Si tu veux en savoir plus sur mes projets, discuter de collaborations ou simplem
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="55" width="55"             
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="MongoDB" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
 <hr>
 
