@@ -39,7 +39,6 @@ Si tu veux en savoir plus sur mes projets, discuter de collaborations ou simplem
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Lexake&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" alt="bear" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Lexake&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" style="max-width: 50%" align="center" >
     </p>
-    <p style="color: #FFDEAD">Oh, also check out what i'm listening to! Or, not... I use Apple Music (¯\_(ツ)_/¯) whose API is much more annoying. They make you sign up for a developer program, and access to information is much more limited :( but if i'm listening to Spotify, that's what im listening to!</p>
     <p align="center">
         <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ve4epqegjjhax2irvofxgr2zae&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=339ba3&bar_color_cover=true">
     </p>
