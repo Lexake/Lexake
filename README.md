@@ -1,3 +1,9 @@
+<br>
+
+<p align="center">
+  <a href="https://github.com/Lexake"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Lexake" alt="Typing SVG" /></a>
+</p>
+
 👋 Salut à toi ! Bienvenue sur mon GitHub ! Je suis Alexandre, mais tu peux m'appeler Lexou ou Lexake. À 20 ans, je suis un développeur passionné de JavaScript/TypeScript, avec une expertise particulière dans l'écosystème Node.js.
 
 Contrairement à un parcours académique traditionnel, j'ai choisi d'apprendre par moi-même. Depuis mes 9 ans, le monde de l'informatique me fascine, que ce soit la réparation d'appareils ou le développement logiciel. À l'âge de 14 ans, j'ai commencé à me plonger sérieusement dans le développement, et depuis, je ne cesse de créer et d'explorer.
