@@ -4,7 +4,7 @@
   <a href="https://github.com/Lexake"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Lexake" alt="Typing SVG" />   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Lexake"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=npm+i+discord.js;import+%7B+Client+%7D+from+'discord.js';setInterval(()+%3D%3E+%7B%7D%2C+60000);Bienvenue+%C3%A0+vous" alt="Typing SVG"/></a>
+  <a href="https://github.com/Lexake"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=npm+i+discord.js;import+%7B+Client+%7D+from+'discord.js';setInterval(()+%3D%3E+%7B%7D%2C+60000);Bienvenue+%C3%A0+vous](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=npm+i+discord.js;import+%7B+Client+%7D+from+'discord.js';setInterval(()+%3D%3E+%7B%7D%2C+60000);Bienvenue+%C3%A0+vous)" alt="Typing SVG"/></a>
 </p>
 
 👋 Salut à toi ! Bienvenue sur mon GitHub ! Je suis Alexandre, mais tu peux m'appeler Lexou ou Lexake. À 20 ans, je suis un développeur passionné de JavaScript/TypeScript, avec une expertise particulière dans l'écosystème Node.js.
