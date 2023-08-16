@@ -19,3 +19,16 @@ Pour moi, GitHub et les sites personnels ont bien plus de valeur que LinkedIn po
 Si tu veux en savoir plus sur mes projets, discuter de collaborations ou simplement échanger des idées, n'hésite pas à me contacter ici sur GitHub ou par mail . Mon voyage dans le monde du développement est en constante évolution, et je suis ravi de partager cette aventure avec d'autres passionnés comme toi.
 
 <hr>
+
+<details closed display="flex" align-items="center" color="#FFDEAD">
+    <summary >
+        <img alt="Whispering..." src="https://media4.giphy.com/media/wIkGlPFEjzy8qykkUJ/giphy.gif?cid=ecf05e47pgs986yvharf6gkk3cp2omjjnu59vi1mswlm4p33&rid=giphy.gif&ct=s" width="60" height="60" style="display: inline-block; vertical-align:-1em">
+        <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
+    </summary>
+    <div>
+        <ul>
+            <li><a href="https://github.com/Lexake/logging-repository" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">Logs</a></li>
+            <li><a href="https://github.com/Lexake?tab=repositories" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">All Repositories</a></li>
+        </ul>
+    </div>
+</details>
