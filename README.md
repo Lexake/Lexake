@@ -20,6 +20,7 @@ Si tu veux en savoir plus sur mes projets, discuter de collaborations ou simplem
 
 <hr>
 <div class="flex">
+  <h3> Langages & Applications </h3>
   <img align="center" alt="Kotlin" height="55" width="55"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="JavaScript" height="55" width="55"               
@@ -28,6 +29,18 @@ Si tu veux en savoir plus sur mes projets, discuter de collaborations ou simplem
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="MongoDB" height="55" width="55"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="React" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Electron" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
+  <img align="center" alt="NextJS" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vue" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="VSCode" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="IntelliJ" height="55" width="55"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 </div>
 <hr>
 
