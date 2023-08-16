@@ -22,7 +22,6 @@ Si tu veux en savoir plus sur mes projets, discuter de collaborations ou simplem
 
 <details closed display="flex" align-items="center" color="#FFDEAD">
     <summary >
-        <img alt="Whispering..." src="https://media4.giphy.com/media/wIkGlPFEjzy8qykkUJ/giphy.gif?cid=ecf05e47pgs986yvharf6gkk3cp2omjjnu59vi1mswlm4p33&rid=giphy.gif&ct=s" width="60" height="60" style="display: inline-block; vertical-align:-1em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
     </summary>
     <div>
