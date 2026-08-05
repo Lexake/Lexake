@@ -44,6 +44,29 @@ Plateforme web pour une activité d'auto-entrepreneur proposant impression 3D, r
   - Gestion des commandes (suivi, livraison, remises)
   - Espace d'administration complet
   - Système de personnalisation de l'expérience utilisateur (thèmes, animations)
+ 
+### 📑 Logger
+Un logger pour tous les projets. Incluant un logger console, fichiers, discord et d'autres encore...
+
+- **Statut** : En développement actif
+- **Stack** :
+  - Backend : Node.js, Typescript
+  - Frontend : N/A
+- **Fonctionnalités** :
+  - Rotation des fichiers
+  - Trie des erreurs en fonction de leur catégorie
+  - Alerte discord en cas de problème
+  - (À venir)
+ 
+### 🤖 Handler Discord Bot
+L'handler le plus optimisé et personnalisable de sa génération.
+
+- **Statut** : En développement actif
+- **Stack** :
+  - Backend : Node.js, Typescript
+  - Frontend : (En cours de réflexion)
+- **Fonctionnalités** :
+  - (À venir)
 
 ---
 
